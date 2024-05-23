@@ -10,7 +10,7 @@ alpha = 0.01 # Thermal diffusivity
 Lx, Ly = 1, 1 # Dimensions of rectangular domain
 nx, ny = 50, 50 # NUmber of grid points
 dx, dy = (Lx / (nx -1)), (Ly / (ny -1))
-T = 10 # Total time (seconds)
+T = 10 # Total time (seconds)afwa
 dt = 0.01 # Time step
 
 # Creating grid
